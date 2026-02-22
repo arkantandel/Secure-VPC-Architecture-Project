@@ -457,12 +457,7 @@ aws-skill-builder-projects/
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════╗
-║          BUILT BY ARKAN TANDEL        ║
-║      AWS Cloud Infrastructure         ║
-╚═══════════════════════════════════════╝
-```
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arkan_Tandel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkan-tandel)
 [![GitHub](https://img.shields.io/badge/GitHub-arkan--tandel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arkan-tandel)
@@ -474,9 +469,6 @@ aws-skill-builder-projects/
 
 <div align="center">
 
-```
-⭐ If this project helped you, please consider giving it a star! ⭐
-```
 
 ![Footer](https://img.shields.io/badge/Made_with-☁️_AWS_&_❤️-FF9900?style=for-the-badge)
 ![AWS Skill Builder](https://img.shields.io/badge/AWS-Skill_Builder_Project-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
